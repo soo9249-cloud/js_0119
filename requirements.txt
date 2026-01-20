@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+
+# 업그레이드는 streamlit을 했을 때 안됐을 때 하는 것
